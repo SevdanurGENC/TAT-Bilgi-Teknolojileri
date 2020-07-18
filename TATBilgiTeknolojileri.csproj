@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D642896F-9C65-4AA9-8C43-D5454E61E867}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TATBilgiTeknolojileri</RootNamespace>
+    <AssemblyName>TATBilgiTeknolojileri</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>.\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>.\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessLogicLayer\TblAdminHatirlatmalarBLL.cs" />
+    <Compile Include="BusinessLogicLayer\TblDemirbasBilgisayarBLL.cs" />
+    <Compile Include="BusinessLogicLayer\TblDemirbasCtosBLL.cs" />
+    <Compile Include="BusinessLogicLayer\TblDemirbasKablosuzWifiEkipmanlariBLL.cs" />
+    <Compile Include="BusinessLogicLayer\TblDemirbasScannerBLL.cs" />
+    <Compile Include="BusinessLogicLayer\TblDemirbasServerBLL.cs" />
+    <Compile Include="BusinessLogicLayer\TblDemirbasSwitchBLL.cs" />
+    <Compile Include="BusinessLogicLayer\TblDemirbasYaziciBLL.cs" />
+    <Compile Include="BusinessLogicLayer\TblKullaniciGirisiBLL.cs" />
+    <Compile Include="BusinessLogicLayer\TblMalzemeBilgisayarBLL.cs" />
+    <Compile Include="BusinessLogicLayer\TblMalzemeElektronikAtikSirketineTeslimEdileceklerBLL.cs" />
+    <Compile Include="BusinessLogicLayer\TblMalzemeMonitorBLL.cs" />
+    <Compile Include="BusinessLogicLayer\TblMalzemeYaziciBLL.cs" />
+    <Compile Include="BusinessLogicLayer\TblSatinAlmalarBLL.cs" />
+    <Compile Include="BusinessLogicLayer\TblServisTakipBLL.cs" />
+    <Compile Include="DataAccessObjects\TblAdminHatirlatmalarDAO.cs" />
+    <Compile Include="DataAccessObjects\TblDemirbasBilgisayarDAO.cs" />
+    <Compile Include="DataAccessObjects\TblDemirbasCtosDAO.cs" />
+    <Compile Include="DataAccessObjects\TblDemirbasKablosuzWifiEkipmanlariDAO.cs" />
+    <Compile Include="DataAccessObjects\TblDemirbasScannerDAO.cs" />
+    <Compile Include="DataAccessObjects\TblDemirbasSwitchDAO.cs" />
+    <Compile Include="DataAccessObjects\TblDemirbasServerDAO.cs" />
+    <Compile Include="DataAccessObjects\TblDemirbasYaziciDAO.cs" />
+    <Compile Include="DataAccessObjects\TblMalzemeBilgisayarDAO.cs" />
+    <Compile Include="DataAccessObjects\TblMalzemeElektronikAtikSirketineTeslimEdileceklerDAO.cs" />
+    <Compile Include="DataAccessObjects\TblMalzemeMonitorDAO.cs" />
+    <Compile Include="DataAccessObjects\TblMalzemeYaziciDAO.cs" />
+    <Compile Include="DataAccessObjects\TblServisTakipDAO.cs" />
+    <Compile Include="PocosLayer\TblAdminHatirlatmalarPoco.cs" />
+    <Compile Include="PocosLayer\TblDemirbasBilgisayarPoco.cs" />
+    <Compile Include="PocosLayer\TblDemirbasCtosPoco.cs" />
+    <Compile Include="PocosLayer\TblDemirbasKablosuzWifiEkipmanlariPoco.cs" />
+    <Compile Include="PocosLayer\TblDemirbasScannerPoco.cs" />
+    <Compile Include="PocosLayer\TblDemirbasServerPoco.cs" />
+    <Compile Include="PocosLayer\TblDemirbasSwitchPoco.cs" />
+    <Compile Include="PocosLayer\TblDemirbasYaziciPoco.cs" />
+    <Compile Include="PocosLayer\TblMalzemeBilgisayarPoco.cs" />
+    <Compile Include="PocosLayer\TblMalzemeElektronikAtikSirketineTeslimEdileceklerPoco.cs" />
+    <Compile Include="PocosLayer\TblMalzemeMonitorPoco.cs" />
+    <Compile Include="PocosLayer\TblMalzemeYaziciPoco.cs" />
+    <Compile Include="PocosLayer\TblServisTakipPoco.cs" />
+    <Compile Include="PresentationLayer\frmDemirbasBilgisayarEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmDemirbasBilgisayarEkrani.Designer.cs">
+      <DependentUpon>frmDemirbasBilgisayarEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmDemirbasCtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmDemirbasCtos.Designer.cs">
+      <DependentUpon>frmDemirbasCtos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmDemirbasKablosuzWifiEkipmanlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmDemirbasKablosuzWifiEkipmanlari.Designer.cs">
+      <DependentUpon>frmDemirbasKablosuzWifiEkipmanlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmDemirbasScanner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmDemirbasScanner.Designer.cs">
+      <DependentUpon>frmDemirbasScanner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmDemirbasServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmDemirbasServer.Designer.cs">
+      <DependentUpon>frmDemirbasServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmDemirbasSwitch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmDemirbasSwitch.Designer.cs">
+      <DependentUpon>frmDemirbasSwitch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmDemirbasYazici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmDemirbasYazici.Designer.cs">
+      <DependentUpon>frmDemirbasYazici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmKullaniciBilgileriGuncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmKullaniciBilgileriGuncelleme.Designer.cs">
+      <DependentUpon>frmKullaniciBilgileriGuncelleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmMalzemeBilgisayar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmMalzemeBilgisayar.Designer.cs">
+      <DependentUpon>frmMalzemeBilgisayar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmMalzemeElektronikAtikSirketineTeslimEdilecekler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmMalzemeElektronikAtikSirketineTeslimEdilecekler.Designer.cs">
+      <DependentUpon>frmMalzemeElektronikAtikSirketineTeslimEdilecekler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmMalzemeMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmMalzemeMonitor.Designer.cs">
+      <DependentUpon>frmMalzemeMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmMalzemeYazici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmMalzemeYazici.Designer.cs">
+      <DependentUpon>frmMalzemeYazici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmServisTakipKayitGuncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmServisTakipKayitGuncelleme.Designer.cs">
+      <DependentUpon>frmServisTakipKayitGuncelleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmServisTakipKayitSilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmServisTakipKayitSilme.Designer.cs">
+      <DependentUpon>frmServisTakipKayitSilme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmServisTakipListelemeVeGuncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmServisTakipListelemeVeGuncelleme.Designer.cs">
+      <DependentUpon>frmServisTakipListelemeVeGuncelleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmServisTakipYeniKayitIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmServisTakipYeniKayitIslemleri.Designer.cs">
+      <DependentUpon>frmServisTakipYeniKayitIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VeriTabaniBaglantisi.cs" />
+    <Compile Include="DataAccessObjects\TblKullaniciGirisiDAO.cs" />
+    <Compile Include="DataAccessObjects\TblSatinAlmalarDAO.cs" />
+    <Compile Include="PocosLayer\TblKullaniciGirisiPoco.cs" />
+    <Compile Include="PocosLayer\TblSatinAlmalarPoco.cs" />
+    <Compile Include="PresentationLayer\frmOturumAcilisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmOturumAcilisi.Designer.cs">
+      <DependentUpon>frmOturumAcilisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmAnaEkran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmAnaEkran.Designer.cs">
+      <DependentUpon>frmAnaEkran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmSatinAlmaKayitSilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmSatinAlmaKayitSilme.Designer.cs">
+      <DependentUpon>frmSatinAlmaKayitSilme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmSatinAlmaKayitGuncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmSatinAlmaKayitGuncelleme.Designer.cs">
+      <DependentUpon>frmSatinAlmaKayitGuncelleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmSatinAlmaListelemeVeRaporlama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmSatinAlmaListelemeVeRaporlama.Designer.cs">
+      <DependentUpon>frmSatinAlmaListelemeVeRaporlama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmSatinAlmaYeniKayitIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmSatinAlmaYeniKayitIslemleri.Designer.cs">
+      <DependentUpon>frmSatinAlmaYeniKayitIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PresentationLayer\frmDemirbasBilgisayarEkrani.resx">
+      <DependentUpon>frmDemirbasBilgisayarEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmDemirbasCtos.resx">
+      <DependentUpon>frmDemirbasCtos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmDemirbasKablosuzWifiEkipmanlari.resx">
+      <DependentUpon>frmDemirbasKablosuzWifiEkipmanlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmDemirbasScanner.resx">
+      <DependentUpon>frmDemirbasScanner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmDemirbasServer.resx">
+      <DependentUpon>frmDemirbasServer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmDemirbasSwitch.resx">
+      <DependentUpon>frmDemirbasSwitch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmDemirbasYazici.resx">
+      <DependentUpon>frmDemirbasYazici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmKullaniciBilgileriGuncelleme.resx">
+      <DependentUpon>frmKullaniciBilgileriGuncelleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmMalzemeBilgisayar.resx">
+      <DependentUpon>frmMalzemeBilgisayar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmMalzemeElektronikAtikSirketineTeslimEdilecekler.resx">
+      <DependentUpon>frmMalzemeElektronikAtikSirketineTeslimEdilecekler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmMalzemeMonitor.resx">
+      <DependentUpon>frmMalzemeMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmMalzemeYazici.resx">
+      <DependentUpon>frmMalzemeYazici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmOturumAcilisi.resx">
+      <DependentUpon>frmOturumAcilisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmAnaEkran.resx">
+      <DependentUpon>frmAnaEkran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmSatinAlmaKayitGuncelleme.resx">
+      <DependentUpon>frmSatinAlmaKayitGuncelleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmSatinAlmaKayitSilme.resx">
+      <DependentUpon>frmSatinAlmaKayitSilme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmSatinAlmaListelemeVeRaporlama.resx">
+      <DependentUpon>frmSatinAlmaListelemeVeRaporlama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmSatinAlmaYeniKayitIslemleri.resx">
+      <DependentUpon>frmSatinAlmaYeniKayitIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmServisTakipKayitGuncelleme.resx">
+      <DependentUpon>frmServisTakipKayitGuncelleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmServisTakipKayitSilme.resx">
+      <DependentUpon>frmServisTakipKayitSilme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmServisTakipListelemeVeGuncelleme.resx">
+      <DependentUpon>frmServisTakipListelemeVeGuncelleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmServisTakipYeniKayitIslemleri.resx">
+      <DependentUpon>frmServisTakipYeniKayitIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Report\ReportOfSatinAlma.pdf" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Image\AnaEkranLogo.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
