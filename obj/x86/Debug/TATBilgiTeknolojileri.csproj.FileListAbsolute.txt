@@ -1,0 +1,63 @@
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\bin\Debug\TATBilgiTeknolojileri.exe
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\bin\Debug\TATBilgiTeknolojileri.pdb
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\bin\Debug\itextsharp.dll
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmKullaniciBilgileriGuncelleme.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.frmOturumAcilisi.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmAnaEkran.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmSatinAlmaKayitGuncelleme.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmSatinAlmaListelemeVeRaporlama.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmSatinAlmaYeniKayitIslemleri.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.Properties.Resources.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.exe
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.pdb
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmSatinAlmaKayitSilme.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmServisTakipListelemeVeGuncelleme.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmServisTakipYeniKayitIslemleri.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmServisTakipKayitGuncelleme.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmServisTakipKayitSilme.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmMalzemeBilgisayar.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmMalzemeMonitor.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmMalzemeYazici.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmDemirbasBilgisayarEkrani.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmDemirbasCtos.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmDemirbasScanner.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmDemirbasServer.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmDemirbasSwitch.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmDemirbasYazici.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmMalzemeElektronikAtikSirketineTeslimEdilecekler.resources
+C:\Users\Sevdanur\Documents\Visual Studio 2010\Projects\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmDemirbasKablosuzWifiEkipmanlari.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.exe
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.pdb
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\bin\Debug\TATBilgiTeknolojileri.exe
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\bin\Debug\TATBilgiTeknolojileri.pdb
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\bin\Debug\itextsharp.dll
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.csprojResolveAssemblyReference.cache
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmDemirbasBilgisayarEkrani.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmDemirbasCtos.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmDemirbasKablosuzWifiEkipmanlari.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmDemirbasScanner.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmDemirbasServer.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmDemirbasSwitch.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmDemirbasYazici.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmKullaniciBilgileriGuncelleme.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmMalzemeBilgisayar.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmMalzemeElektronikAtikSirketineTeslimEdilecekler.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmMalzemeMonitor.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmMalzemeYazici.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.frmOturumAcilisi.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmAnaEkran.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmSatinAlmaKayitGuncelleme.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmSatinAlmaKayitSilme.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmSatinAlmaListelemeVeRaporlama.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmSatinAlmaYeniKayitIslemleri.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmServisTakipKayitGuncelleme.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmServisTakipKayitSilme.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmServisTakipListelemeVeGuncelleme.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.PresentationLayer.frmServisTakipYeniKayitIslemleri.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.Properties.Resources.resources
+C:\Users\Nano\Desktop\PrepToSoftware\TATBilgiTeknolojileri\TATBilgiTeknolojileri\obj\x86\Debug\TATBilgiTeknolojileri.csproj.GenerateResource.Cache
