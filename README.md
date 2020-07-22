@@ -1,3 +1,3 @@
 # TAT-Bilgi-Teknolojileri
 
-This repo includes a desktop computing management system developed using n-tier architecture with c#
+This repo was developed using n-tier architecture with c#, it contains the IT management system as a desktop application. 
